@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.03.04
+## Updated on 2025.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**FairSense-AI: Responsible AI Meets Sustainability**|Shaina Raza et.al.|[2503.02865](http://arxiv.org/abs/2503.02865)|null|
+|**2025-03-04**|**A Statistical Interpretation of Multi-Item Rating and Recommendation Problems**|Sjoerd Hermes et.al.|[2503.02786](http://arxiv.org/abs/2503.02786)|null|
+|**2025-03-04**|**Toward Filling a Critical Knowledge Gap: Charting the Interactions of Age with Task and Visualization**|Zack While et.al.|[2503.02699](http://arxiv.org/abs/2503.02699)|null|
+|**2025-03-04**|**Are some books better than others?**|Hannes Rosenbusch et.al.|[2503.02671](http://arxiv.org/abs/2503.02671)|null|
+|**2025-03-04**|**Do you monitor CI Practices? I don't know. You tell me: A case study**|Jadson Santos et.al.|[2503.02610](http://arxiv.org/abs/2503.02610)|null|
+|**2025-03-04**|**Disentangled Knowledge Tracing for Alleviating Cognitive Bias**|Yiyun Zhou et.al.|[2503.02539](http://arxiv.org/abs/2503.02539)|**[link](https://github.com/zyy-2001/DisKT)**|
+|**2025-03-04**|**Attack Tree Distance: a practical examination of tree difference measurement within cyber security**|Nathan D. Schiele et.al.|[2503.02499](http://arxiv.org/abs/2503.02499)|null|
+|**2025-03-04**|**Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations**|Yuhao Yang et.al.|[2503.02453](http://arxiv.org/abs/2503.02453)|null|
+|**2025-03-04**|**PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence**|Yunxiao Shi et.al.|[2503.02398](http://arxiv.org/abs/2503.02398)|null|
+|**2025-03-04**|**Towards Explainable Doctor Recommendation with Large Language Models**|Ziyang Zeng et.al.|[2503.02298](http://arxiv.org/abs/2503.02298)|null|
 |**2025-02-28**|**Clustering Context in Off-Policy Evaluation**|Daniel Guzman-Olivares et.al.|[2502.21304](http://arxiv.org/abs/2502.21304)|null|
 |**2025-02-28**|**Digital Doppelgangers: Ethical and Societal Implications of Pre-Mortem AI Clones**|Vijayalaxmi Methuku et.al.|[2502.21248](http://arxiv.org/abs/2502.21248)|null|
 |**2025-02-28**|**Joint Modeling in Recommendations: A Survey**|Xiangyu Zhao et.al.|[2502.21195](http://arxiv.org/abs/2502.21195)|null|
@@ -64,6 +74,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
+|**2025-03-04**|**RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration**|Alicia Russell-Gilbert et.al.|[2503.02800](http://arxiv.org/abs/2503.02800)|null|
+|**2025-03-04**|**ImpedanceGPT: VLM-driven Impedance Control of Swarm of Mini-drones for Intelligent Navigation in Dynamic Environment**|Faryal Batool et.al.|[2503.02723](http://arxiv.org/abs/2503.02723)|null|
+|**2025-03-04**|**FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**|Congluo Xu et.al.|[2503.02692](http://arxiv.org/abs/2503.02692)|null|
+|**2025-03-04**|**OkraLong: A Flexible Retrieval-Augmented Framework for Long-Text Query Processing**|Yulong Hui et.al.|[2503.02603](http://arxiv.org/abs/2503.02603)|null|
+|**2025-03-04**|**PennyLang: Pioneering LLM-Based Quantum Code Generation with a Novel PennyLane-Centric Dataset**|Haider Asif et.al.|[2503.02497](http://arxiv.org/abs/2503.02497)|null|
+|**2025-03-03**|**Cracking Vector Search Indexes**|Vasilis Mageirakos et.al.|[2503.01823](http://arxiv.org/abs/2503.01823)|null|
+|**2025-03-03**|**SAGE: A Framework of Precise Retrieval for RAG**|Jintao Zhang et.al.|[2503.01713](http://arxiv.org/abs/2503.01713)|null|
+|**2025-03-03**|**Generate, Discriminate, Evolve: Enhancing Context Faithfulness via Fine-Grained Sentence-Level Self-Evolution**|Kun Li et.al.|[2503.01695](http://arxiv.org/abs/2503.01695)|null|
+|**2025-03-04**|**SePer: Measure Retrieval Utility Through The Lens Of Semantic Perplexity Reduction**|Lu Dai et.al.|[2503.01478](http://arxiv.org/abs/2503.01478)|**[link](https://github.com/sepermetric/seper)**|
 |**2025-02-28**|**RuCCoD: Towards Automated ICD Coding in Russian**|Aleksandr Nesterov et.al.|[2502.21263](http://arxiv.org/abs/2502.21263)|null|
 |**2025-02-28**|**Generating patient cohorts from electronic health records using two-step retrieval-augmented text-to-SQL generation**|Angelo Ziletti et.al.|[2502.21107](http://arxiv.org/abs/2502.21107)|null|
 |**2025-02-28**|**PASemiQA: Plan-Assisted Agent for Question Answering on Semi-Structured Data with Text and Relational Information**|Hansi Yang et.al.|[2502.21087](http://arxiv.org/abs/2502.21087)|null|
