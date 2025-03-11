@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.03.06
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
+|**2025-03-07**|**Decision-aware training of spatiotemporal forecasting models**|Kyle Heuton et.al.|[2503.05622](http://arxiv.org/abs/2503.05622)|null|
+|**2025-03-07**|**Ising on $\mathbb{S}^2$ -- The Affine Conjecture**|Richard C. Brower et.al.|[2503.05621](http://arxiv.org/abs/2503.05621)|null|
+|**2025-03-07**|**Study of environment friendly gas mixtures for the Resistive Plate Chambers of the ATLAS phase-2 upgrade**|Giorgia Proto et.al.|[2503.05615](http://arxiv.org/abs/2503.05615)|null|
+|**2025-03-07**|**Benchmarking LLMs in Recommendation Tasks: A Comparative Evaluation with Conventional Recommenders**|Qijiong Liu et.al.|[2503.05493](http://arxiv.org/abs/2503.05493)|null|
+|**2025-03-07**|**phepy: Visual Benchmarks and Improvements for Out-of-Distribution Detectors**|Juniper Tyree et.al.|[2503.05169](http://arxiv.org/abs/2503.05169)|null|
+|**2025-03-07**|**FMCHS: Advancing Traditional Chinese Medicine Herb Recommendation with Fusion of Multiscale Correlations of Herbs and Symptoms**|Xinhan Zheng et.al.|[2503.05167](http://arxiv.org/abs/2503.05167)|null|
+|**2025-03-07**|**No Free Labels: Limitations of LLM-as-a-Judge Without Human Grounding**|Michael Krumdick et.al.|[2503.05061](http://arxiv.org/abs/2503.05061)|null|
+|**2025-03-06**|**Bridging the AI Adoption Gap: Designing an Interactive Pedagogical Agent for Higher Education Instructors**|Si Chen et.al.|[2503.05039](http://arxiv.org/abs/2503.05039)|null|
+|**2025-03-06**|**Lessons learned from field demonstrations of model predictive control and reinforcement learning for residential and commercial HVAC: A review**|Arash J. Khabbazi et.al.|[2503.05022](http://arxiv.org/abs/2503.05022)|null|
 |**2025-03-04**|**FairSense-AI: Responsible AI Meets Sustainability**|Shaina Raza et.al.|[2503.02865](http://arxiv.org/abs/2503.02865)|null|
 |**2025-03-04**|**A Statistical Interpretation of Multi-Item Rating and Recommendation Problems**|Sjoerd Hermes et.al.|[2503.02786](http://arxiv.org/abs/2503.02786)|null|
 |**2025-03-04**|**Toward Filling a Critical Knowledge Gap: Charting the Interactions of Age with Task and Visualization**|Zack While et.al.|[2503.02699](http://arxiv.org/abs/2503.02699)|null|
@@ -74,6 +84,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning**|Huatong Song et.al.|[2503.05592](http://arxiv.org/abs/2503.05592)|null|
+|**2025-03-07**|**Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data**|Shiping Yang et.al.|[2503.05587](http://arxiv.org/abs/2503.05587)|null|
+|**2025-03-07**|**Leveraging Approximate Caching for Faster Retrieval-Augmented Generation**|Shai Bergman et.al.|[2503.05530](http://arxiv.org/abs/2503.05530)|null|
+|**2025-03-07**|**Automatic Teaching Platform on Vision Language Retrieval Augmented Generation**|Ruslan Gokhman et.al.|[2503.05464](http://arxiv.org/abs/2503.05464)|null|
+|**2025-03-07**|**VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**|Weiyu Ma et.al.|[2503.05383](http://arxiv.org/abs/2503.05383)|null|
+|**2025-03-07**|**Personalized Text Generation with Contrastive Activation Steering**|Jinghao Zhang et.al.|[2503.05213](http://arxiv.org/abs/2503.05213)|null|
+|**2025-03-07**|**Path Pooling: Train-Free Structure Enhancement for Efficient Knowledge Graph Retrieval-Augmented Generation**|Hairu Wang et.al.|[2503.05203](http://arxiv.org/abs/2503.05203)|null|
+|**2025-03-07**|**ORANSight-2.0: Foundational LLMs for O-RAN**|Pranshav Gajjar et.al.|[2503.05200](http://arxiv.org/abs/2503.05200)|null|
+|**2025-03-07**|**FinTMMBench: Benchmarking Temporal-Aware Multi-Modal RAG in Finance**|Fengbin Zhu et.al.|[2503.05185](http://arxiv.org/abs/2503.05185)|null|
+|**2025-03-07**|**Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History**|Bowen Wu et.al.|[2503.05150](http://arxiv.org/abs/2503.05150)|null|
 |**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
 |**2025-03-04**|**RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration**|Alicia Russell-Gilbert et.al.|[2503.02800](http://arxiv.org/abs/2503.02800)|null|
 |**2025-03-04**|**ImpedanceGPT: VLM-driven Impedance Control of Swarm of Mini-drones for Intelligent Navigation in Dynamic Environment**|Faryal Batool et.al.|[2503.02723](http://arxiv.org/abs/2503.02723)|null|
