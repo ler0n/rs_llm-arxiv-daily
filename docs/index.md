@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.03.26
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**MemInsight: Autonomous Memory Augmentation for LLM Agents**|Rana Salama et.al.|[2503.21760](http://arxiv.org/abs/2503.21760)|null|
+|**2025-03-27**|**GenEdit: Compounding Operators and Continuous Improvement to Tackle Text-to-SQL in the Enterprise**|Karime Maamari et.al.|[2503.21602](http://arxiv.org/abs/2503.21602)|null|
+|**2025-03-27**|**CombiGCN: An effective GCN model for Recommender System**|Loc Tan Nguyen et.al.|[2503.21471](http://arxiv.org/abs/2503.21471)|null|
+|**2025-03-27**|**Improvement Graph Convolution Collaborative Filtering with Weighted addition input**|Tin T. Tran et.al.|[2503.21468](http://arxiv.org/abs/2503.21468)|**[link](https://github.com/trantin84/wigcn)**|
+|**2025-03-27**|**New beyond-Voigt line-shape profile recommended for the HITRAN database**|P. Wcisło et.al.|[2503.21430](http://arxiv.org/abs/2503.21430)|null|
+|**2025-03-28**|**Improving the Detection of Gravitational-Wave Signals in Real Time**|Arthur Tolley et.al.|[2503.21417](http://arxiv.org/abs/2503.21417)|null|
+|**2025-03-27**|**SEAGET: Seasonal and Active hours guided Graph Enhanced Transformer for the next POI recommendation**|Alif Al Hasan et.al.|[2503.21225](http://arxiv.org/abs/2503.21225)|null|
+|**2025-03-27**|**An NLP-Driven Approach Using Twitter Data for Tailored K-pop Artist Recommendations**|Sora Kang et.al.|[2503.21189](http://arxiv.org/abs/2503.21189)|null|
+|**2025-03-27**|**Are We Solving a Well-Defined Problem? A Task-Centric Perspective on Recommendation Tasks**|Aixin Sun et.al.|[2503.21188](http://arxiv.org/abs/2503.21188)|null|
+|**2025-03-27**|**Doing Less for More: Consumer Search and Undertreatment in Credence Service Markets**|Xiaoyan Xu et.al.|[2503.21175](http://arxiv.org/abs/2503.21175)|null|
 |**2025-03-24**|**Application of Physics-Informed Neural Networks for Solving the Inverse Advection-Diffusion Problem to Localize Pollution Sources**|Ivan Chuprov et.al.|[2503.18849](http://arxiv.org/abs/2503.18849)|null|
 |**2025-03-24**|**From Trust to Truth: Actionable policies for the use of AI in fact-checking in Germany and Ukraine**|Veronika Solopova et.al.|[2503.18724](http://arxiv.org/abs/2503.18724)|null|
 |**2025-03-24**|**ArchSeek: Retrieving Architectural Case Studies Using Vision-Language Models**|Danrui Li et.al.|[2503.18680](http://arxiv.org/abs/2503.18680)|null|
@@ -114,6 +124,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**MemInsight: Autonomous Memory Augmentation for LLM Agents**|Rana Salama et.al.|[2503.21760](http://arxiv.org/abs/2503.21760)|null|
+|**2025-03-27**|**ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation**|Zhicheng Lee et.al.|[2503.21729](http://arxiv.org/abs/2503.21729)|null|
+|**2025-03-27**|**HyperGraphRAG: Retrieval-Augmented Generation with Hypergraph-Structured Knowledge Representation**|Haoran Luo et.al.|[2503.21322](http://arxiv.org/abs/2503.21322)|**[link](https://github.com/LHRLAB/HyperGraphRAG)**|
+|**2025-03-27**|**Tricking Retrievers with Influential Tokens: An Efficient Black-Box Corpus Poisoning Attack**|Cheng Wang et.al.|[2503.21315](http://arxiv.org/abs/2503.21315)|null|
+|**2025-03-27**|**Real-Time Evaluation Models for RAG: Who Detects Hallucinations Best?**|Ashish Sardana et.al.|[2503.21157](http://arxiv.org/abs/2503.21157)|null|
+|**2025-03-26**|**DEMENTIA-PLAN: An Agent-Based Framework for Multi-Knowledge Graph Retrieval-Augmented Generation in Dementia Care**|Yutong Song et.al.|[2503.20950](http://arxiv.org/abs/2503.20950)|null|
+|**2025-03-26**|**Leveraging LLMs, IDEs, and Semantic Embeddings for Automated Move Method Refactoring**|Fraol Batole et.al.|[2503.20934](http://arxiv.org/abs/2503.20934)|null|
+|**2025-03-26**|**MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search**|Yunhai Hu et.al.|[2503.20757](http://arxiv.org/abs/2503.20757)|null|
+|**2025-03-26**|**What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond**|Wenchao Gu et.al.|[2503.20589](http://arxiv.org/abs/2503.20589)|null|
+|**2025-03-26**|**RALLRec+: Retrieval Augmented Large Language Model Recommendation with Reasoning**|Sichun Luo et.al.|[2503.20430](http://arxiv.org/abs/2503.20430)|null|
 |**2025-03-24**|**Video SimpleQA: Towards Factuality Evaluation in Large Video Language Models**|Meng Cao et.al.|[2503.18923](http://arxiv.org/abs/2503.18923)|null|
 |**2025-03-24**|**Synthetic Function Demonstrations Improve Generation in Low-Resource Programming Languages**|Nick McKenna et.al.|[2503.18760](http://arxiv.org/abs/2503.18760)|null|
 |**2025-03-24**|**ModiGen: A Large Language Model-Based Workflow for Multi-Task Modelica Code Generation**|Jiahui Xiang et.al.|[2503.18460](http://arxiv.org/abs/2503.18460)|null|
