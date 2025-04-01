@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation**|Jiakai Tang et.al.|[2503.22675](http://arxiv.org/abs/2503.22675)|null|
+|**2025-03-28**|**Towards More Accessible Scientific PDFs for People with Visual Impairments: Step-by-Step PDF Remediation to Improve Tag Accuracy**|Felix M. Schmitt-Koopmann et.al.|[2503.22216](http://arxiv.org/abs/2503.22216)|null|
+|**2025-03-28**|**Briteller: Shining a Light on AI Recommendations for Children**|Xiaofei Zhou et.al.|[2503.22113](http://arxiv.org/abs/2503.22113)|null|
+|**2025-03-27**|**HyperMAN: Hypergraph-enhanced Meta-learning Adaptive Network for Next POI Recommendation**|Jinze Wang et.al.|[2503.22049](http://arxiv.org/abs/2503.22049)|**[link](https://github.com/ICME-2025/HyperMAN)**|
+|**2025-03-27**|**Reliability and Availability in Virtualized Networks: A Survey on Standards, Modeling Approaches, and Research Challenges**|Mario Di Mauro et.al.|[2503.22034](http://arxiv.org/abs/2503.22034)|null|
+|**2025-03-27**|**Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences**|Heejin Kook et.al.|[2503.22005](http://arxiv.org/abs/2503.22005)|null|
+|**2025-03-27**|**"Ignorance is Not Bliss": Designing Personalized Moderation to Address Ableist Hate on Social Media**|Sharon Heung et.al.|[2503.21844](http://arxiv.org/abs/2503.21844)|null|
 |**2025-03-27**|**MemInsight: Autonomous Memory Augmentation for LLM Agents**|Rana Salama et.al.|[2503.21760](http://arxiv.org/abs/2503.21760)|null|
 |**2025-03-27**|**GenEdit: Compounding Operators and Continuous Improvement to Tackle Text-to-SQL in the Enterprise**|Karime Maamari et.al.|[2503.21602](http://arxiv.org/abs/2503.21602)|null|
 |**2025-03-27**|**CombiGCN: An effective GCN model for Recommender System**|Loc Tan Nguyen et.al.|[2503.21471](http://arxiv.org/abs/2503.21471)|null|
@@ -124,6 +131,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Preference-based Learning with Retrieval Augmented Generation for Conversational Question Answering**|Magdalena Kaiser et.al.|[2503.22303](http://arxiv.org/abs/2503.22303)|**[link](https://github.com/magkai/PRAISE)**|
+|**2025-03-28**|**BanglAssist: A Bengali-English Generative AI Chatbot for Code-Switching and Dialect-Handling in Customer Service**|Francesco Kruk et.al.|[2503.22283](http://arxiv.org/abs/2503.22283)|null|
+|**2025-03-28**|**Multi-Task Semantic Communications via Large Models**|Wanli Ni et.al.|[2503.22064](http://arxiv.org/abs/2503.22064)|null|
+|**2025-03-27**|**AutoPsyC: Automatic Recognition of Psychodynamic Conflicts from Semi-structured Interviews with Large Language Models**|Sayed Muddashir Hossain et.al.|[2503.21911](http://arxiv.org/abs/2503.21911)|null|
+|**2025-03-27**|**OntoAligner: A Comprehensive Modular and Robust Python Toolkit for Ontology Alignment**|Hamed Babaei Giglou et.al.|[2503.21902](http://arxiv.org/abs/2503.21902)|**[link](https://github.com/sciknoworg/ontoaligner)**|
 |**2025-03-27**|**MemInsight: Autonomous Memory Augmentation for LLM Agents**|Rana Salama et.al.|[2503.21760](http://arxiv.org/abs/2503.21760)|null|
 |**2025-03-27**|**ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation**|Zhicheng Lee et.al.|[2503.21729](http://arxiv.org/abs/2503.21729)|null|
 |**2025-03-27**|**HyperGraphRAG: Retrieval-Augmented Generation with Hypergraph-Structured Knowledge Representation**|Haoran Luo et.al.|[2503.21322](http://arxiv.org/abs/2503.21322)|**[link](https://github.com/LHRLAB/HyperGraphRAG)**|
