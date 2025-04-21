@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.16
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**|Ivica Kostric et.al.|[2504.13095](http://arxiv.org/abs/2504.13095)|null|
+|**2025-04-17**|**Neurodiversity in Computing Education Research: A Systematic Literature Review**|Cynthia Zastudil et.al.|[2504.13058](http://arxiv.org/abs/2504.13058)|null|
+|**2025-04-17**|**CSMF: Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-Based Retrieval**|Hao Deng et.al.|[2504.12920](http://arxiv.org/abs/2504.12920)|null|
+|**2025-04-17**|**Questions: A Taxonomy for Critical Reflection in Machine-Supported Decision-Making**|Simon W. S. Fischer et.al.|[2504.12830](http://arxiv.org/abs/2504.12830)|null|
+|**2025-04-17**|**SoK: Security of EMV Contactless Payment Systems**|Mahshid Mehr Nezhad et.al.|[2504.12812](http://arxiv.org/abs/2504.12812)|null|
+|**2025-04-17**|**SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation**|Nicolas Bougie et.al.|[2504.12722](http://arxiv.org/abs/2504.12722)|null|
+|**2025-04-17**|**Accessibility Recommendations for Designing Better Mobile Application User Interfaces for Seniors**|Shavindra Wickramathilaka et.al.|[2504.12690](http://arxiv.org/abs/2504.12690)|null|
+|**2025-04-16**|**"It's not approved, but many, like myself, ignore the rule": Investigating the Landscape and Consequences of Unsanctioned Technology Use in Educational Institutes**|Easton Kelso et.al.|[2504.12536](http://arxiv.org/abs/2504.12536)|null|
+|**2025-04-16**|**Rethinking Trust in AI Assistants for Software Development: A Critical Review**|Sebastian Baltes et.al.|[2504.12461](http://arxiv.org/abs/2504.12461)|null|
+|**2025-04-16**|**Interpretable AI-driven Guidelines for Type 2 Diabetes Treatment from Observational Data**|Dewang Kumar Agarwal et.al.|[2504.12417](http://arxiv.org/abs/2504.12417)|null|
 |**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|null|
 |**2025-04-14**|**Performance of Large Language Models in Supporting Medical Diagnosis and Treatment**|Diogo Sousa et.al.|[2504.10405](http://arxiv.org/abs/2504.10405)|null|
 |**2025-04-14**|**CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation**|Junchen Fu et.al.|[2504.10307](http://arxiv.org/abs/2504.10307)|null|
@@ -161,6 +171,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**FreshStack: Building Realistic Benchmarks for Evaluating Retrieval on Technical Documents**|Nandan Thakur et.al.|[2504.13128](http://arxiv.org/abs/2504.13128)|null|
+|**2025-04-17**|**Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification**|Kumar Manas et.al.|[2504.13111](http://arxiv.org/abs/2504.13111)|null|
+|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|**[link](https://github.com/hannight/ramdocs)**|
+|**2025-04-17**|**InstructRAG: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning**|Zheng Wang et.al.|[2504.13032](http://arxiv.org/abs/2504.13032)|null|
+|**2025-04-17**|**Accommodate Knowledge Conflicts in Retrieval-augmented LLMs: Towards Reliable Response Generation in the Wild**|Jiatai Wang et.al.|[2504.12982](http://arxiv.org/abs/2504.12982)|null|
+|**2025-04-17**|**Estimating Optimal Context Length for Hybrid Retrieval-augmented Multi-document Summarization**|Adithya Pratapa et.al.|[2504.12972](http://arxiv.org/abs/2504.12972)|**[link](https://github.com/adithya7/hybrid-rag)**|
+|**2025-04-17**|**Explainable AI in Usable Privacy and Security: Challenges and Opportunities**|Vincent Freiberger et.al.|[2504.12931](http://arxiv.org/abs/2504.12931)|null|
+|**2025-04-17**|**Can LLMs reason over extended multilingual contexts? Towards long-context evaluation beyond retrieval and haystacks**|Amey Hengle et.al.|[2504.12845](http://arxiv.org/abs/2504.12845)|null|
+|**2025-04-17**|**ACoRN: Noise-Robust Abstractive Compression in Retrieval-Augmented Language Models**|Singon Kim et.al.|[2504.12673](http://arxiv.org/abs/2504.12673)|null|
+|**2025-04-17**|**CDF-RAG: Causal Dynamic Feedback for Adaptive Retrieval-Augmented Generation**|Elahe Khatibi et.al.|[2504.12560](http://arxiv.org/abs/2504.12560)|**[link](https://github.com/elakhatibi/cdf-rag)**|
 |**2025-04-14**|**SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning**|Yiting Wang et.al.|[2504.10369](http://arxiv.org/abs/2504.10369)|null|
 |**2025-04-14**|**SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model**|Zongcan Ding et.al.|[2504.10320](http://arxiv.org/abs/2504.10320)|null|
 |**2025-04-14**|**AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis**|Dan Luo et.al.|[2504.10309](http://arxiv.org/abs/2504.10309)|null|
