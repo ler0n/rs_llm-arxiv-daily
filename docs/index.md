@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.26
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**The Leaderboard Illusion**|Shivalika Singh et.al.|[2504.20879](http://arxiv.org/abs/2504.20879)|null|
+|**2025-04-29**|**X-Cross: Dynamic Integration of Language Models for Cross-Domain Sequential Recommendation**|Guy Hadad et.al.|[2504.20859](http://arxiv.org/abs/2504.20859)|null|
+|**2025-04-29**|**Multiwavelength thermometry without a priori emissivity information: from promise to disillusionment**|Jean-Claude Krapez et.al.|[2504.20853](http://arxiv.org/abs/2504.20853)|null|
+|**2025-04-29**|**Non-Linear Modeling and Analysis of Amplifier-Less Potentiostat Architectures**|Andrea Sannino et.al.|[2504.20836](http://arxiv.org/abs/2504.20836)|null|
+|**2025-04-29**|**RecGaze: The First Eye Tracking and User Interaction Dataset for Carousel Interfaces**|Santiago de Leon-Martinez et.al.|[2504.20792](http://arxiv.org/abs/2504.20792)|null|
+|**2025-04-29**|**Occlusion-aware Driver Monitoring System using the Driver Monitoring Dataset**|Paola Natalia Cañas et.al.|[2504.20677](http://arxiv.org/abs/2504.20677)|null|
+|**2025-04-29**|**Triadic Closure-Heterogeneity-Harmony GCN for Link Prediction**|Ke-ke Shang et.al.|[2504.20492](http://arxiv.org/abs/2504.20492)|null|
+|**2025-04-29**|**Search-Based Interaction For Conversation Recommendation via Generative Reward Model Based Simulated User**|Xiaolei Wang et.al.|[2504.20458](http://arxiv.org/abs/2504.20458)|null|
+|**2025-04-29**|**Enhancing News Recommendation with Hierarchical LLM Prompting**|Hai-Dang Kieu et.al.|[2504.20452](http://arxiv.org/abs/2504.20452)|null|
+|**2025-04-29**|**Consensus Recommendations for Hyperpolarized [1-13C]pyruvate MRI Multi-center Human Studies**|Shonit Punwani et.al.|[2504.20440](http://arxiv.org/abs/2504.20440)|null|
 |**2025-04-24**|**Multilingual Performance Biases of Large Language Models in Education**|Vansh Gupta et.al.|[2504.17720](http://arxiv.org/abs/2504.17720)|null|
 |**2025-04-24**|**Target-Date Funds: A State-of-the-Art Review with Policy Applications to Chile's Pension Reform**|Fernando Suárez et.al.|[2504.17713](http://arxiv.org/abs/2504.17713)|null|
 |**2025-04-24**|**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**|Honghao Li et.al.|[2504.17699](http://arxiv.org/abs/2504.17699)|null|
@@ -181,6 +191,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**CBM-RAG: Demonstrating Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models**|Hasan Md Tusfiqur Alam et.al.|[2504.20898](http://arxiv.org/abs/2504.20898)|null|
+|**2025-04-29**|**UniversalRAG: Retrieval-Augmented Generation over Multiple Corpora with Diverse Modalities and Granularities**|Woongyeong Yeo et.al.|[2504.20734](http://arxiv.org/abs/2504.20734)|null|
+|**2025-04-29**|**ComplexVCoder: An LLM-Driven Framework for Systematic Generation of Complex Verilog Code**|Jian Zuo et.al.|[2504.20653](http://arxiv.org/abs/2504.20653)|null|
+|**2025-04-29**|**Information Retrieval in the Age of Generative AI: The RGB Model**|Michele Garetto et.al.|[2504.20610](http://arxiv.org/abs/2504.20610)|null|
+|**2025-04-29**|**ReasonIR: Training Retrievers for Reasoning Tasks**|Rulin Shao et.al.|[2504.20595](http://arxiv.org/abs/2504.20595)|null|
+|**2025-04-29**|**ARCS: Agentic Retrieval-Augmented Code Synthesis with Iterative Refinement**|Manish Bhattarai et.al.|[2504.20434](http://arxiv.org/abs/2504.20434)|null|
+|**2025-04-29**|**AKIBoards: A Structure-Following Multiagent System for Predicting Acute Kidney Injury**|David Gordon et.al.|[2504.20368](http://arxiv.org/abs/2504.20368)|null|
+|**2025-04-28**|**Can LLMs Be Trusted for Evaluating RAG Systems? A Survey of Methods and Datasets**|Lorenz Brehme et.al.|[2504.20119](http://arxiv.org/abs/2504.20119)|null|
+|**2025-04-28**|**Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses**|Sahel Sharifymoghaddam et.al.|[2504.20006](http://arxiv.org/abs/2504.20006)|null|
+|**2025-04-28**|**Reconstructing Context: Evaluating Advanced Chunking Strategies for Retrieval-Augmented Generation**|Carlo Merola et.al.|[2504.19754](http://arxiv.org/abs/2504.19754)|null|
 |**2025-04-24**|**A Comprehensive Survey of Knowledge-Based Vision Question Answering Systems: The Lifecycle of Knowledge in Visual Reasoning Task**|Jiaqi Deng et.al.|[2504.17547](http://arxiv.org/abs/2504.17547)|null|
 |**2025-04-24**|**A RAG-Based Multi-Agent LLM System for Natural Hazard Resilience and Adaptation**|Yangxinyu Xie et.al.|[2504.17200](http://arxiv.org/abs/2504.17200)|null|
 |**2025-04-23**|**MIRAGE: A Metric-Intensive Benchmark for Retrieval-Augmented Generation Evaluation**|Chanhee Park et.al.|[2504.17137](http://arxiv.org/abs/2504.17137)|null|
