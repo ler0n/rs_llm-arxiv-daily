@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.05.11
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Adaptively-weighted Nearest Neighbors for Matrix Completion**|Tathagata Sadhukhan et.al.|[2505.09612](http://arxiv.org/abs/2505.09612)|null|
+|**2025-05-14**|**Distance-aware Self-adaptive Graph Convolution for Fine-grained Hierarchical Recommendation**|Tao Huang et.al.|[2505.09590](http://arxiv.org/abs/2505.09590)|**[link](https://github.com/coffeetau/sagcn)**|
+|**2025-05-14**|**The vertical structure of debris discs and the role of disc gravity**|Antranik A. Sefilian et.al.|[2505.09578](http://arxiv.org/abs/2505.09578)|null|
+|**2025-05-14**|**GlobalMood: A cross-cultural benchmark for music emotion recognition**|Harin Lee et.al.|[2505.09539](http://arxiv.org/abs/2505.09539)|null|
+|**2025-05-14**|**Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch**|Michael Benigni et.al.|[2505.09364](http://arxiv.org/abs/2505.09364)|null|
+|**2025-05-15**|**Efficient Graph Embedding at Scale: Optimizing CPU-GPU-SSD Integration**|Zhonggen Li et.al.|[2505.09258](http://arxiv.org/abs/2505.09258)|null|
+|**2025-05-14**|**QUIC Steps: Evaluating Pacing Strategies in QUIC Implementations**|Marcel Kempf et.al.|[2505.09222](http://arxiv.org/abs/2505.09222)|null|
+|**2025-05-14**|**Educational impacts of generative artificial intelligence on learning and performance of engineering students in China**|Lei Fan et.al.|[2505.09208](http://arxiv.org/abs/2505.09208)|null|
+|**2025-05-14**|**HMamba: Hyperbolic Mamba for Sequential Recommendation**|Qianru Zhang et.al.|[2505.09205](http://arxiv.org/abs/2505.09205)|null|
+|**2025-05-14**|**Display Content, Display Methods and Evaluation Methods of the HCI in Explainable Recommender Systems: A Survey**|Weiqing Li et.al.|[2505.09065](http://arxiv.org/abs/2505.09065)|null|
 |**2025-05-08**|**UKElectionNarratives: A Dataset of Misleading Narratives Surrounding Recent UK General Elections**|Fatima Haouari et.al.|[2505.05459](http://arxiv.org/abs/2505.05459)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 |**2025-05-08**|**Hybrid Personalization Using Declarative and Procedural Memory Modules of the Cognitive Architecture ACT-R**|Kevin Innerebner et.al.|[2505.05083](http://arxiv.org/abs/2505.05083)|null|
@@ -211,6 +221,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**CXMArena: Unified Dataset to benchmark performance in realistic CXM Scenarios**|Raghav Garg et.al.|[2505.09436](http://arxiv.org/abs/2505.09436)|**[link](https://github.com/kapilsprinklr/cxmarena)**|
+|**2025-05-14**|**RAG-Enabled Intent Reasoning for Application-Network Interaction**|Salwa Mostafa et.al.|[2505.09339](http://arxiv.org/abs/2505.09339)|null|
+|**2025-05-14**|**Scent of Knowledge: Optimizing Search-Enhanced Reasoning with Information Foraging**|Hongjin Qian et.al.|[2505.09316](http://arxiv.org/abs/2505.09316)|null|
+|**2025-05-13**|**Improving the Reliability of LLMs: Combining CoT, RAG, Self-Consistency, and Self-Verification**|Adarsh Kumar et.al.|[2505.09031](http://arxiv.org/abs/2505.09031)|null|
+|**2025-05-13**|**Securing RAG: A Risk Assessment and Mitigation Framework**|Lukas Ammann et.al.|[2505.08728](http://arxiv.org/abs/2505.08728)|null|
+|**2025-05-13**|**Adaptive Schema-aware Event Extraction with Retrieval-Augmented Generation**|Sheng Liang et.al.|[2505.08690](http://arxiv.org/abs/2505.08690)|null|
+|**2025-05-13**|**Scaling Context, Not Parameters: Training a Compact 7B Language Model for Efficient Long-Context Processing**|Chen Wu et.al.|[2505.08651](http://arxiv.org/abs/2505.08651)|null|
+|**2025-05-13**|**WixQA: A Multi-Dataset Benchmark for Enterprise Retrieval-Augmented Generation**|Dvir Cohen et.al.|[2505.08643](http://arxiv.org/abs/2505.08643)|null|
+|**2025-05-13**|**Enhancing Thyroid Cytology Diagnosis with RAG-Optimized LLMs and Pa-thology Foundation Models**|Hussien Al-Asi et.al.|[2505.08590](http://arxiv.org/abs/2505.08590)|null|
+|**2025-05-13**|**TrialMatchAI: An End-to-End AI-powered Clinical Trial Recommendation System to Streamline Patient-to-Trial Matching**|Majd Abdallah et.al.|[2505.08508](http://arxiv.org/abs/2505.08508)|null|
 |**2025-05-08**|**QualBench: Benchmarking Chinese LLMs with Localized Professional Qualifications for Vertical Domain Evaluation**|Mengze Hong et.al.|[2505.05225](http://arxiv.org/abs/2505.05225)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 |**2025-05-08**|**Towards Mitigating API Hallucination in Code Generated by LLMs with Hierarchical Dependency Aware**|Yujia Chen et.al.|[2505.05057](http://arxiv.org/abs/2505.05057)|null|
