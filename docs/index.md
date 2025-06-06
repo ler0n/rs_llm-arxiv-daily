@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.06.01
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**N $^2$ : A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion**|Caleb Chin et.al.|[2506.04166](http://arxiv.org/abs/2506.04166)|null|
+|**2025-06-04**|**GORACS: Group-level Optimal Transport-guided Coreset Selection for LLM-based Recommender Systems**|Tiehua Mei et.al.|[2506.04015](http://arxiv.org/abs/2506.04015)|null|
+|**2025-06-04**|**Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models**|Alex Laitenberger et.al.|[2506.03989](http://arxiv.org/abs/2506.03989)|null|
+|**2025-06-04**|**Automatic Multi-level Feature Tree Construction for Domain-Specific Reusable Artifacts Management**|Dongming Jin et.al.|[2506.03946](http://arxiv.org/abs/2506.03946)|null|
+|**2025-06-04**|**Survey of Active Learning Hyperparameters: Insights from a Large-Scale Experimental Grid**|Julius Gonsior et.al.|[2506.03817](http://arxiv.org/abs/2506.03817)|**[link](https://github.com/jgonsior/olympic-games-of-active-learning)**|
+|**2025-06-04**|**Scaling Transformers for Discriminative Recommendation via Generative Pretraining**|Chunqi Wang et.al.|[2506.03699](http://arxiv.org/abs/2506.03699)|null|
+|**2025-06-04**|**Off-shell ambiguities in correlation functions: strategies to minimize them**|R. Molina et.al.|[2506.03669](http://arxiv.org/abs/2506.03669)|null|
+|**2025-06-04**|**Geometric standardized mean difference and its application to meta-analysis**|Jiandong Shi et.al.|[2506.03639](http://arxiv.org/abs/2506.03639)|null|
+|**2025-06-04**|**Distinguishing True Influence from Hyperprolificity with Citation Distance**|Lu Li et.al.|[2506.03527](http://arxiv.org/abs/2506.03527)|null|
+|**2025-06-04**|**A Model-Data Dual-Driven Resource Allocation Scheme for IREE Oriented 6G Networks**|Tao Yu et.al.|[2506.03508](http://arxiv.org/abs/2506.03508)|null|
 |**2025-05-29**|**COBRA: Contextual Bandit Algorithm for Ensuring Truthful Strategic Agents**|Arun Verma et.al.|[2505.23720](http://arxiv.org/abs/2505.23720)|null|
 |**2025-05-29**|**How to Elicit Explainability Requirements? A Comparison of Interviews, Focus Groups, and Surveys**|Martin Obaidi et.al.|[2505.23684](http://arxiv.org/abs/2505.23684)|null|
 |**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|null|
@@ -251,6 +261,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202](http://arxiv.org/abs/2506.04202)|null|
+|**2025-06-04**|**R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning**|Qingfei Zhao et.al.|[2506.04185](http://arxiv.org/abs/2506.04185)|null|
+|**2025-06-04**|**QQSUM: A Novel Task and Model of Quantitative Query-Focused Summarization for Review-based Product Question Answering**|An Quang Tang et.al.|[2506.04020](http://arxiv.org/abs/2506.04020)|null|
+|**2025-06-04**|**Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models**|Alex Laitenberger et.al.|[2506.03989](http://arxiv.org/abs/2506.03989)|null|
+|**2025-06-04**|**Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning**|Junqi Gao et.al.|[2506.03939](http://arxiv.org/abs/2506.03939)|null|
+|**2025-06-05**|**Magic Mushroom: A Customizable Benchmark for Fine-grained Analysis of Retrieval Noise Erosion in RAG Systems**|Yuxin Zhang et.al.|[2506.03901](http://arxiv.org/abs/2506.03901)|null|
+|**2025-06-04**|**ScoreRAG: A Retrieval-Augmented Generation Framework with Consistency-Relevance Scoring and Structured Summarization for News Generation**|Pei-Yun Lin et.al.|[2506.03704](http://arxiv.org/abs/2506.03704)|null|
+|**2025-06-04**|**A Two-Staged LLM-Based Framework for CI/CD Failure Detection and Remediation with Industrial Validation**|Weiyuan Xu et.al.|[2506.03691](http://arxiv.org/abs/2506.03691)|null|
+|**2025-06-04**|**ProRank: Prompt Warmup via Reinforcement Learning for Small Language Models Reranking**|Xianming Li et.al.|[2506.03487](http://arxiv.org/abs/2506.03487)|null|
+|**2025-06-03**|**RAGOps: Operating and Managing Retrieval-Augmented Generation Pipelines**|Xiwei Xu et.al.|[2506.03401](http://arxiv.org/abs/2506.03401)|null|
 |**2025-05-29**|**MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment**|John Halloran et.al.|[2505.23634](http://arxiv.org/abs/2505.23634)|null|
 |**2025-05-29**|**Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking**|Liangliang Zhang et.al.|[2505.23495](http://arxiv.org/abs/2505.23495)|null|
 |**2025-05-29**|**Data-efficient Meta-models for Evaluation of Context-based Questions and Answers in LLMs**|Julia Belikova et.al.|[2505.23299](http://arxiv.org/abs/2505.23299)|null|
