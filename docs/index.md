@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Learning to Coordinate Bidders in Non-Truthful Auctions**|Hu Fu et.al.|[2507.02801](http://arxiv.org/abs/2507.02801)|null|
+|**2025-07-03**|**Calibrated Recommendations: Survey and Future Directions**|Diego Corrêa da Silva et.al.|[2507.02643](http://arxiv.org/abs/2507.02643)|null|
+|**2025-07-03**|**VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning**|Siran Chen et.al.|[2507.02626](http://arxiv.org/abs/2507.02626)|null|
+|**2025-07-03**|**Fast variational knowledge graph embedding**|Pulak Ranjan Giri et.al.|[2507.02472](http://arxiv.org/abs/2507.02472)|null|
+|**2025-07-03**|**Evaluating Language Models For Threat Detection in IoT Security Logs**|Jorge J. Tejero-Fernández et.al.|[2507.02390](http://arxiv.org/abs/2507.02390)|null|
+|**2025-07-03**|**Human-Centered Explainability in Interactive Information Systems: A Survey**|Yuhao Zhang et.al.|[2507.02300](http://arxiv.org/abs/2507.02300)|null|
+|**2025-07-03**|**Content filtering methods for music recommendation: A review**|Terence Zeng et.al.|[2507.02282](http://arxiv.org/abs/2507.02282)|null|
+|**2025-07-03**|**Listwise Preference Alignment Optimization for Tail Item Recommendation**|Zihao Li et.al.|[2507.02255](http://arxiv.org/abs/2507.02255)|null|
+|**2025-07-03**|**SciGA: A Comprehensive Dataset for Designing Graphical Abstracts in Academic Papers**|Takuro Kawada et.al.|[2507.02212](http://arxiv.org/abs/2507.02212)|null|
+|**2025-07-02**|**Computer Science Education in the Age of Generative AI**|Russell Beale et.al.|[2507.02183](http://arxiv.org/abs/2507.02183)|null|
 |**2025-06-27**|**What Makes ChatGPT Effective for Software Issue Resolution? An Empirical Study of Developer-ChatGPT Conversations in GitHub**|Ramtin Ehsani et.al.|[2506.22390](http://arxiv.org/abs/2506.22390)|null|
 |**2025-06-27**|**MeerKAT radio continuum imaging of nearby star-forming spirals in the NGC 6221, NGC 3256/3263, and NGC 2434 galaxy groups**|J. Saponara et.al.|[2506.22382](http://arxiv.org/abs/2506.22382)|null|
 |**2025-06-27**|**Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny**|Carolina Carreira et.al.|[2506.22370](http://arxiv.org/abs/2506.22370)|null|
@@ -301,6 +311,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Knowledge Protocol Engineering: A New Paradigm for AI in Domain-Specific Knowledge Work**|Guangwei Zhang et.al.|[2507.02760](http://arxiv.org/abs/2507.02760)|null|
+|**2025-07-03**|**Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search**|Jiajie Jin et.al.|[2507.02652](http://arxiv.org/abs/2507.02652)|null|
+|**2025-07-03**|**CyberRAG: An agentic RAG cyber attack classification and reporting tool**|Francesco Blefari et.al.|[2507.02424](http://arxiv.org/abs/2507.02424)|null|
+|**2025-07-02**|**CROP: Circuit Retrieval and Optimization with Parameter Guidance using LLMs**|Jingyu Pan et.al.|[2507.02128](http://arxiv.org/abs/2507.02128)|null|
+|**2025-07-02**|**BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments**|Yibo Qiu et.al.|[2507.01485](http://arxiv.org/abs/2507.01485)|null|
+|**2025-07-02**|**Context-Aware Code Wiring Recommendation with LLM-based Agent**|Taiming Wang et.al.|[2507.01315](http://arxiv.org/abs/2507.01315)|null|
+|**2025-07-02**|**Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks**|Xinxi Lyu et.al.|[2507.01297](http://arxiv.org/abs/2507.01297)|null|
+|**2025-07-02**|**Rethinking All Evidence: Enhancing Trustworthy Retrieval-Augmented Generation via Conflict-Driven Summarization**|Juan Chen et.al.|[2507.01281](http://arxiv.org/abs/2507.01281)|null|
+|**2025-07-01**|**MobileRAG: A Fast, Memory-Efficient, and Energy-Efficient Method for On-Device RAG**|Taehwan Park et.al.|[2507.01079](http://arxiv.org/abs/2507.01079)|null|
+|**2025-07-01**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Rizwan Qureshi et.al.|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
 |**2025-06-27**|**Education-Oriented Graph Retrieval-Augmented Generation for Learning Path Recommendation**|Xinghe Cheng et.al.|[2506.22303](http://arxiv.org/abs/2506.22303)|null|
 |**2025-06-27**|**JointRank: Rank Large Set with Single Pass**|Evgeny Dedov et.al.|[2506.22262](http://arxiv.org/abs/2506.22262)|null|
 |**2025-06-27**|**UiS-IAI@LiveRAG: Retrieval-Augmented Information Nugget-Based Generation of Responses**|Weronika Łajewska et.al.|[2506.22210](http://arxiv.org/abs/2506.22210)|null|
