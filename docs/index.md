@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.07.06
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation Is Wasteful**|Martin Marek et.al.|[2507.07101](http://arxiv.org/abs/2507.07101)|null|
+|**2025-07-09**|**Boosting Parameter Efficiency in LLM-Based Recommendation through Sophisticated Pruning**|Shanle Zheng et.al.|[2507.07064](http://arxiv.org/abs/2507.07064)|null|
+|**2025-07-09**|**Investigating the Robustness of Retrieval-Augmented Generation at the Query Level**|Sezen Perçin et.al.|[2507.06956](http://arxiv.org/abs/2507.06956)|null|
+|**2025-07-09**|**SCoRE: Streamlined Corpus-based Relation Extraction using Multi-Label Contrastive Learning and Bayesian kNN**|Luca Mariotti et.al.|[2507.06895](http://arxiv.org/abs/2507.06895)|null|
+|**2025-07-09**|**CDC: Causal Domain Clustering for Multi-Domain Recommendation**|Huishi Luo et.al.|[2507.06877](http://arxiv.org/abs/2507.06877)|null|
+|**2025-07-09**|**Towards Efficient and Scalable Distributed Vector Search with RDMA**|Xiangyu Zhi et.al.|[2507.06653](http://arxiv.org/abs/2507.06653)|null|
+|**2025-07-09**|**Expediting data extraction using a large language model (LLM) and scoping review protocol: a methodological study within a complex scoping review**|James Stewart-Evans et.al.|[2507.06623](http://arxiv.org/abs/2507.06623)|null|
+|**2025-07-09**|**Impacts of Mainstream-Driven Algorithms on Recommendations for Children Across Domains: A Reproducibility Study**|Robin Ungruh et.al.|[2507.06596](http://arxiv.org/abs/2507.06596)|null|
+|**2025-07-09**|**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**|Zhen Yang et.al.|[2507.06507](http://arxiv.org/abs/2507.06507)|null|
+|**2025-07-10**|**USD: A User-Intent-Driven Sampling and Dual-Debiasing Framework for Large-Scale Homepage Recommendations**|Jiaqi Zheng et.al.|[2507.06503](http://arxiv.org/abs/2507.06503)|null|
 |**2025-07-03**|**Learning to Coordinate Bidders in Non-Truthful Auctions**|Hu Fu et.al.|[2507.02801](http://arxiv.org/abs/2507.02801)|null|
 |**2025-07-03**|**Calibrated Recommendations: Survey and Future Directions**|Diego Corrêa da Silva et.al.|[2507.02643](http://arxiv.org/abs/2507.02643)|null|
 |**2025-07-03**|**VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning**|Siran Chen et.al.|[2507.02626](http://arxiv.org/abs/2507.02626)|null|
@@ -311,6 +321,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**The User-Centric Geo-Experience: An LLM-Powered Framework for Enhanced Planning, Navigation, and Dynamic Adaptation**|Jieren Deng et.al.|[2507.06993](http://arxiv.org/abs/2507.06993)|null|
+|**2025-07-09**|**Investigating the Robustness of Retrieval-Augmented Generation at the Query Level**|Sezen Perçin et.al.|[2507.06956](http://arxiv.org/abs/2507.06956)|null|
+|**2025-07-10**|**The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover**|Matteo Lupinacci et.al.|[2507.06850](http://arxiv.org/abs/2507.06850)|null|
+|**2025-07-10**|**Shifting from Ranking to Set Selection for Retrieval Augmented Generation**|Dahyun Lee et.al.|[2507.06838](http://arxiv.org/abs/2507.06838)|null|
+|**2025-07-09**|**PenTest2.0: Towards Autonomous Privilege Escalation Using GenAI**|Haitham S. Al-Sinani et.al.|[2507.06742](http://arxiv.org/abs/2507.06742)|null|
+|**2025-07-09**|**CLI-RAG: A Retrieval-Augmented Framework for Clinically Structured and Context Aware Text Generation with LLMs**|Garapati Keerthana et.al.|[2507.06715](http://arxiv.org/abs/2507.06715)|null|
+|**2025-07-09**|**SPEAR: Subset-sampled Performance Evaluation via Automated Ground Truth Generation for RAG**|Zou Yuheng et.al.|[2507.06554](http://arxiv.org/abs/2507.06554)|null|
+|**2025-07-09**|**Towards LLM-based Root Cause Analysis of Hardware Design Failures**|Siyu Qiu et.al.|[2507.06512](http://arxiv.org/abs/2507.06512)|null|
+|**2025-07-09**|**Ragged Blocks: Rendering Structured Text with Style**|Sam Cohen et.al.|[2507.06460](http://arxiv.org/abs/2507.06460)|null|
+|**2025-07-08**|**Development and Evaluation of HopeBot: an LLM-based chatbot for structured and interactive PHQ-9 depression screening**|Zhijun Guo et.al.|[2507.05984](http://arxiv.org/abs/2507.05984)|null|
 |**2025-07-03**|**Knowledge Protocol Engineering: A New Paradigm for AI in Domain-Specific Knowledge Work**|Guangwei Zhang et.al.|[2507.02760](http://arxiv.org/abs/2507.02760)|null|
 |**2025-07-03**|**Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search**|Jiajie Jin et.al.|[2507.02652](http://arxiv.org/abs/2507.02652)|null|
 |**2025-07-03**|**CyberRAG: An agentic RAG cyber attack classification and reporting tool**|Francesco Blefari et.al.|[2507.02424](http://arxiv.org/abs/2507.02424)|null|
